@@ -9,7 +9,7 @@ import os
 # ---------------------------------------------------------------------------
 DOMAIN_LIST_URL    = "https://tranco-list.eu/top-1m.csv.zip"
 DOMAIN_LIST_PATH   = "tranco_top1m.csv.zip"
-DOMAIN_SAMPLE_SIZE = 50_000   # 0 = all; use 5_000 for first test run
+DOMAIN_SAMPLE_SIZE = 1_000_000   # 0 = all; use 5_000 for first test run
 CUSTOM_DOMAIN_LIST = None     # e.g. "my_domains.txt"
 
 # ---------------------------------------------------------------------------
